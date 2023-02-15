@@ -4,7 +4,8 @@
 
 1. Equations of all three versions of logic function f(c,b,a):
 
-   ![Logic function](images/equations.png)
+   ![326324794_590205932966314_6610370632674197332_n](https://user-images.githubusercontent.com/124742913/218913219-60e37094-f245-40c3-9dbd-a8f3c0d8a765.jpg)
+
 
 2. Listing of VHDL architecture from design file (`design.vhd`) for all three functions. Always use syntax highlighting, meaningful comments, and follow VHDL guidelines:
 
@@ -34,8 +35,9 @@ end architecture dataflow;
 
 1. Screenshot with simulated time waveforms. Always display all inputs and outputs (display the inputs at the top of the image, the outputs below them) at the appropriate time scale!
 
-   ![your figure]()
+   ![de1](https://user-images.githubusercontent.com/124742913/218913065-ea4bfee2-08ce-4e5d-a258-a0aff4c4fdc2.png)
+
 
 2. Link to your public EDA Playground example:
 
-   [https://www.edaplayground.com/...](https://www.edaplayground.com/...)
+   https://www.edaplayground.com/x/r6X5
